@@ -26,6 +26,9 @@ The method predicts **density maps** of objects, enabling accurate counting and 
 ---
 
 ## Visualization
+<img width="1025" height="443" alt="image" src="https://github.com/user-attachments/assets/16fa10ea-27b0-42a7-8640-d334c9a49316" />
+framework of the proposed method
+
 <img width="1816" height="377" alt="image" src="https://github.com/user-attachments/assets/3f83c0e6-c6b8-4fda-9605-4640b2466124" />  
 <img width="948" height="594" alt="image" src="https://github.com/user-attachments/assets/c8997cab-ddfa-4879-b8d4-a7b9a1bed06e" />  
 
